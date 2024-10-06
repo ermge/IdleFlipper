@@ -1,0 +1,24 @@
+body {
+    background-color: #121212;
+}
+
+.button {
+    border: none;
+    color: white;
+    background-color: #6a6aef;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.enter_button {
+    position: absolute;
+    z-index: 2;
+    top: 11%;
+    left: 55%;
+}
